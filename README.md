@@ -1,5 +1,7 @@
 # Playwright QA Portfolio – SauceDemo Automation Suite
 
+[![Playwright Tests](https://github.com/TmXMvP/playwright-qa-portfolio/actions/workflows/playwright.yml/badge.svg)](https://github.com/TmXMvP/playwright-qa-portfolio/actions/workflows/playwright.yml)
+
 End-to-end test automation for [SauceDemo](https://www.saucedemo.com/), built with **Playwright** and **TypeScript** using the **Page Object Model (POM)** design pattern.
 
 ## Testing approach
