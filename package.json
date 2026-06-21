@@ -1,10 +1,15 @@
 {
   "name": "playwright-qa-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "Playwright automation test suite for SauceDemo using the Page Object Model",
   "main": "index.js",
-  "scripts": {},
-  "keywords": [],
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:ui": "npx playwright test --ui",
+    "report": "npx playwright show-report"
+  },
+  "keywords": ["playwright", "automation", "testing", "qa", "e2e"],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
