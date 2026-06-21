@@ -27,6 +27,7 @@ Test design covers:
 | Full checkout flow | Positive | Completes the entire purchase flow from login through order confirmation |
 | Invalid login | Negative | Verifies the correct error message displays for incorrect credentials |
 📄 See [TEST_CASES.md](./TEST_CASES.md) for the full test case matrix, including planned and manual test scenarios beyond current automation coverage.
+🐛 See [BUG_REPORT.md](./BUG_REPORT.md) for a sample defect report documenting a functional bug found during manual exploration.
 ## Project structure
 ```
 ├── pages/
