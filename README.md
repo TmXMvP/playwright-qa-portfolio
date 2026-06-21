@@ -26,7 +26,7 @@ Test design covers:
 | Login → Add to cart | Positive | Logs in with valid credentials, adds an item, and verifies it appears in the cart |
 | Full checkout flow | Positive | Completes the entire purchase flow from login through order confirmation |
 | Invalid login | Negative | Verifies the correct error message displays for incorrect credentials |
-
+📄 See [TEST_CASES.md](./TEST_CASES.md) for the full test case matrix, including planned and manual test scenarios beyond current automation coverage.
 ## Project structure
 ```
 ├── pages/
